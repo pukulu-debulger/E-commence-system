@@ -2,7 +2,7 @@
 
 ## Phase 1: Setup
 - [x] Create project folder and initialize Git repo
-- [ ] Setup `index.html`, `style.css`, and `script.js`
+- [x] Setup `index.html`, `style.css`, and `script.js`
 - [ ] Link CSS and JS in HTML
 
 ## Phase 2: Structure (HTML)
