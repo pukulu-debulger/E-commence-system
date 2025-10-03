@@ -1,7 +1,7 @@
 # Tasks for E-commerce Product Page
 
 ## Phase 1: Setup
-- [ ] Create project folder and initialize Git repo
+- [x] Create project folder and initialize Git repo
 - [ ] Setup `index.html`, `style.css`, and `script.js`
 - [ ] Link CSS and JS in HTML
 
